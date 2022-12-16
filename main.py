@@ -1,5 +1,4 @@
-#Anderson pena                                                              EMPLID:23633574
-import pandas as pd
+                                                            import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 colnames = ['CodeNumber','Thickness', 'Size', 'Shape', 'Adhesion', 'Epithetialsize', 'nuclei', 'chromatin', 'nucleoi',
